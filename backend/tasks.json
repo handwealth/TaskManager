@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Finish report",
+    "description": "Complete Q3 summary",
+    "status": "todo"
+  },
+  {
+    "id": 2,
+    "title": "Team meeting",
+    "description": "Discuss project goals",
+    "status": "done"
+  },
+  {
+    "title": "assignment submission",
+    "description": "submit end term se assignemnts",
+    "status": "in progress",
+    "id": 1749383980077
+  },
+  {
+    "title": "get groceries",
+    "description": "get milk bread butter",
+    "status": "todo",
+    "id": 1749384047889
+  }
+]
