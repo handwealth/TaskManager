@@ -2,6 +2,13 @@
 
 A simple full-stack Task Manager application built with Node.js (Express) backend and React frontend.
 
+![image](https://github.com/user-attachments/assets/40b78f80-85d6-4d51-932b-0346b19d8304)
+![image](https://github.com/user-attachments/assets/1c3ca1cb-ee95-4b0d-8b8d-a51f6bf58089)
+![image](https://github.com/user-attachments/assets/b9106c21-a19d-479e-bda0-6903de8c445f)
+
+### Working demo video of the app
+![demo video](https://www.loom.com/share/134f6e0a7b2b4577b22fc18f26bafa2f?sid=37b61452-87e6-40e8-8b68-97e89a9d0fb2)
+
 ## Features
 
 - Fetch all tasks from the backend API
@@ -78,7 +85,6 @@ To improve performance, the app uses basic client-side caching:
 - A "🔄 Refresh" button lets users manually re-fetch the latest tasks from the backend.
 
 ### Why?
-
 This improves responsiveness by avoiding unnecessary backend requests on every page load.
 
 ### Notes
